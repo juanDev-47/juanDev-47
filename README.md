@@ -13,7 +13,6 @@
 
 ```javascript
 const juanDev47 = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C#"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
