@@ -12,7 +12,7 @@
 ### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
-const juanDev-47 = {
+const juanDev47 = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "C#"],
     askMeAbout: ["web dev", "tech", "app dev"],
