@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 全棧開發人員🙏🏻, I'm Juan Arenas! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="30"/> 全棧開發人員  I'm Juan Arenas! <img src="https://media.giphy.com/media/ejfEZhz0nh2kR0SZzn/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif" width="230"> 
 </em>
 
@@ -9,9 +9,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/juanDev-47?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://juan-pablo-arenas-cv.netlify.app/)](https://juan-pablo-arenas-cv.netlify.app/)
 
-https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif
-
-### <img src="" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const juanDev-47 = {
