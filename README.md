@@ -23,7 +23,7 @@ const juanDev47 = {
             native: ["nop yet"]
         },
         devOps: ["AWS", "Azure", "Docker🐳"],
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: ["mongo", "MySql", "sqlite", "postgres"],
         misc: ["Firebase", "Socket.IO", "Mongo atlas"]
     },
     architecture: ["Model View Controller", "Progressive web applications", "Single page applications"],
