@@ -17,12 +17,10 @@ const juanDev47 = {
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
-            js: ["Node", "Express"],
+            js: ["Nest JS"],
+            }
         },
-        mobileApp: {
-            native: ["nop yet"]
-        },
-        devOps: ["AWS", "Azure", "Docker🐳"],
+        devOps: ["AWS", "Azure", "Docker🐳", "GitHub actions"],
         databases: ["mongo", "MySql", "sqlite", "postgres"],
         misc: ["Firebase", "Socket.IO", "Mongo atlas"]
     },
@@ -47,7 +45,7 @@ const juanDev47 = {
 
 > 🚫 Not Opted to Hire
  > 
-> 📜 58 Public Repositories 
+> 📜 65 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -59,7 +57,7 @@ const juanDev47 = {
 ⌚︎ Time Zone: Bogota/Colombia
 
 💬 Programming Languages: 
-JavaScript 
+Nest JS 
 C#
 Python
 
@@ -68,14 +66,14 @@ VS Code
 
 💻 Operating System: 
 Windows                     
-Linex     
+Linux     
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               40 repos  
+JavaScript               30 repos  
 
 ```
 
