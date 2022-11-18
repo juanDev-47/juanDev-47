@@ -25,7 +25,7 @@ const juanDev47 = {
         misc: ["Firebase", "Socket.IO", "Mongo atlas"]
     },
     architecture: ["Model View Controller", "Progressive web applications", "Single page applications"],
-    currentFocus: "Working on OCPP protocol",
+    currentFocus: "Working on AR project",
 };
 
 ```
