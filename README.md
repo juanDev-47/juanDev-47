@@ -30,6 +30,11 @@ const juanDev47 = {
 };
 
 ```
+## Certifications
+
+<img src="https://www.credly.com/badges/063986fd-fe25-4b99-8df2-8cccee6a2a92" width="50"/>
+
+```
 
 ## 🔧 Technologies & Tools
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
