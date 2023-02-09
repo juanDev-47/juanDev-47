@@ -18,9 +18,10 @@ const juanDev47 = {
     technologies: {
         backEnd: {
             js: ["Nest JS"],
-            }
+            },
+            java: ["sprintboot"]
         },
-        devOps: ["AWS", "Azure", "Docker🐳", "GitHub actions"],
+        devOps: ["AWS", "Azure Administrator", "Docker🐳", "GitHub actions"],
         databases: ["mongo", "MySql", "sqlite", "postgres"],
         misc: ["Firebase", "Socket.IO", "Mongo atlas"]
     },
