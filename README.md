@@ -32,7 +32,7 @@ const juanDev47 = {
 ```
 ## Certifications
 
-<img src="https://www.credly.com/badges/063986fd-fe25-4b99-8df2-8cccee6a2a92" width="50"/>
+[certificate.png](https://www.credly.com/badges/063986fd-fe25-4b99-8df2-8cccee6a2a92)
 
 ```
 
