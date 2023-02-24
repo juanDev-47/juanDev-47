@@ -47,15 +47,15 @@ const juanDev47 = {
 
 <div style="display:grid; grid-template-columns: repeat(3, 1fr)">
     <div>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandev-47&show_icons=true&locale=en&layout=compact" alt="juandev-47" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juandev-47&show_icons=true&locale=en&layout=compact" alt="juandev-47" /></p>
     </div>
     
     <div>
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandev-47&show_icons=true&locale=en" alt="juandev-47" /></p>
+        <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juandev-47&show_icons=true&locale=en" alt="juandev-47" /></p>
     </div>
     
     <div>
-        <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juandev-47&" alt="juandev-47" /></p>
+        <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=juandev-47&" alt="juandev-47" /></p>
     </div>
 </div>
 
