@@ -31,7 +31,7 @@ const juanDev47 = {
         databases: ["mongo", "MySql", "sqlite", "postgres"],
         misc: ["Firebase", "Socket.IO", "Mongo atlas"]
     },
-    architecture: ["Model View Controller", "Progressive web applications", "Single page applications"],
+    architecture: ["Model View Controller", "Restfull", "Progressive web applications", "Single page applications"],
     currentFocus: "Working on AR project",
 };
 
