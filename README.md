@@ -10,6 +10,11 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://juan-pablo-arenas-cv.netlify.app/)](https://juan-pablo-arenas-cv.netlify.app/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandev-47&label=Profile%20views&color=0e75b6&style=flat" alt="juandev-47" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://juandev-47.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="juandev-47" height="30" width="40" /></a>
+</p>
+
 ### <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="80"> A little more about me...  
 
 ```javascript
