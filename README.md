@@ -49,10 +49,7 @@ const juanDev47 = {
     <div>
         <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juandev-47&show_icons=true&locale=en&layout=compact" alt="juandev-47" /></p>
     </div>
-    
-    <div>
         <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=juandev-47&show_icons=true&locale=en" alt="juandev-47" /></p>
-    </div>
     
     <div>
         <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=juandev-47&" alt="juandev-47" /></p>
