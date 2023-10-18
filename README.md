@@ -19,13 +19,12 @@
 
 ```javascript
 const juanDev47 = {
-    code: ["Javascript", "Python", "C#"],
+    code: ["Javascript", "Java", "Python", "C#"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
             js: ["Nest JS"],
-            },
-            java: ["sprintboot"]
+            Java: ["SpringBoot"],
         },
         devOps: ["AWS", "Azure Administrator", "Docker🐳", "GitHub actions"],
         databases: ["mongo", "MySql", "sqlite", "postgres"],
