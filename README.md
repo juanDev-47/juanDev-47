@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/juanDev47?label=Follow)](https://twitter.com/intent/follow?screen_name=juanDev47)
 [![Linkedin: juanDev-47](https://img.shields.io/badge/-juanDev47-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-pablo-arenas-7b09a4173/)](https://www.linkedin.com/in/juan-pablo-arenas-7b09a4173/)
 ![GitHub followers](https://img.shields.io/github/followers/juanDev-47?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://juan-pablo-arenas-cv.netlify.app/)](https://juan-pablo-arenas-cv.netlify.app/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://juan-pablo-arenas-cv.netlify.app/)](https://juanDev-47.dev/)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandev-47&label=Profile%20views&color=0e75b6&style=flat" alt="juandev-47" /> </p>
 
 <h3 align="left">Connect with me:</h3>
