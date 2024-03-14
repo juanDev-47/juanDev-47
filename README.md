@@ -38,7 +38,7 @@ const juanDev47 = {
 ## Certifications
 
 [<img src="./certificate.png" width="200"/>](https://www.credly.com/badges/063986fd-fe25-4b99-8df2-8cccee6a2a92)
-[<img src="./certificate.png" width="200"/>](https://www.credly.com/badges/faa3646e-a374-4bf9-9773-c24df0dc2ffc)
+[<img src="./certificate2.png" width="200"/>](https://www.credly.com/badges/faa3646e-a374-4bf9-9773-c24df0dc2ffc)
 
 
 
