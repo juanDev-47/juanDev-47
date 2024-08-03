@@ -19,7 +19,7 @@
 
 ```javascript
 const juanDev47 = {
-    code: ["Javascript", "Java", "Python", "C#"],
+    code: ["Javascript", "Java", "Python"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         backEnd: {
@@ -30,8 +30,9 @@ const juanDev47 = {
         databases: ["mongo", "MySql", "sqlite", "postgres"],
         misc: ["Firebase", "Socket.IO", "Mongo atlas"]
     },
-    architecture: ["Model View Controller", "Restfull", "Progressive web applications", "Single page applications"],
-    currentFocus: "Working on AR project",
+    architecture: ["Model View Controller", "Microservices", "Restfull", "Progressive web applications", "Single page applications"],
+    currentFocus: "Microservices",
+    LastUpdated: 03-08-2024
 };
 
 ```
@@ -59,7 +60,7 @@ const juanDev47 = {
 
 > 🚫 Not Opted to Hire
  > 
-> 📜 65 Public Repositories 
+> 📜 78 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
@@ -71,11 +72,12 @@ const juanDev47 = {
 ⌚︎ Time Zone: Bogota/Colombia
 
 💬 Programming Languages: 
-Nest JS 
-C#
-Python
+Java 
+Angular
+AWS
 
 🔥 Editors: 
+Intellij IDEA
 VS Code           
 
 💻 Operating System: 
@@ -84,10 +86,11 @@ Linux
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in Java and Angular** 
 
 ```text
-JavaScript               30 repos  
+JavaScript               30 repos
+Java                     15 repos 
 
 ```
 
